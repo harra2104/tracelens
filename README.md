@@ -1,8 +1,7 @@
 # Tracelens - Trace Deeper. Resolve Faster.
 Browser log analysis tool to detect root cause from NetLogs and HAR files
 
-<img width="2427" height="1261" alt="image" src="https://github.com/user-attachments/assets/fbe164bf-d14c-405a-8a7f-e88063ec4375" />
-
+<img width="2441" height="1265" alt="image" src="https://github.com/user-attachments/assets/68bb6b95-1237-42f5-a63e-c46a8801e45c" />
 
 **What is TraceLens?**
 
